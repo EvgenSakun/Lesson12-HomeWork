@@ -13,6 +13,8 @@
 		04B28C352B4B13DF00AC5651 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B28C332B4B13DF00AC5651 /* Main.storyboard */; };
 		04B28C372B4B13E100AC5651 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B28C362B4B13E100AC5651 /* Assets.xcassets */; };
 		04B28C3A2B4B13E100AC5651 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B28C382B4B13E100AC5651 /* LaunchScreen.storyboard */; };
+		04B28C422B4B145700AC5651 /* View2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B28C412B4B145700AC5651 /* View2ViewController.swift */; };
+		04B28C442B4B146000AC5651 /* View2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B28C432B4B146000AC5651 /* View2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		04B28C362B4B13E100AC5651 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B28C392B4B13E100AC5651 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04B28C3B2B4B13E100AC5651 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04B28C412B4B145700AC5651 /* View2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2ViewController.swift; sourceTree = "<group>"; };
+		04B28C432B4B146000AC5651 /* View2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = View2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				04B28C2D2B4B13DF00AC5651 /* AppDelegate.swift */,
 				04B28C2F2B4B13DF00AC5651 /* SceneDelegate.swift */,
 				04B28C312B4B13DF00AC5651 /* ViewController.swift */,
+				04B28C412B4B145700AC5651 /* View2ViewController.swift */,
+				04B28C432B4B146000AC5651 /* View2.storyboard */,
 				04B28C332B4B13DF00AC5651 /* Main.storyboard */,
 				04B28C362B4B13E100AC5651 /* Assets.xcassets */,
 				04B28C382B4B13E100AC5651 /* LaunchScreen.storyboard */,
@@ -125,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B28C442B4B146000AC5651 /* View2.storyboard in Resources */,
 				04B28C3A2B4B13E100AC5651 /* LaunchScreen.storyboard in Resources */,
 				04B28C372B4B13E100AC5651 /* Assets.xcassets in Resources */,
 				04B28C352B4B13DF00AC5651 /* Main.storyboard in Resources */,
@@ -138,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B28C422B4B145700AC5651 /* View2ViewController.swift in Sources */,
 				04B28C322B4B13DF00AC5651 /* ViewController.swift in Sources */,
 				04B28C2E2B4B13DF00AC5651 /* AppDelegate.swift in Sources */,
 				04B28C302B4B13DF00AC5651 /* SceneDelegate.swift in Sources */,
